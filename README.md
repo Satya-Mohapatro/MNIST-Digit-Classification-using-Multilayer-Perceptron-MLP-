@@ -1,7 +1,7 @@
 #  MNIST Digit Classification using Multilayer Perceptron (MLP)
 
 This project implements an end-to-end deep learning pipeline to classify handwritten digits (0–9) from the MNIST dataset using a Multilayer Perceptron (ANN).  
-It includes preprocessing, model training, evaluation, visualizations, and deployment (Flask API + TFLite).
+It includes preprocessing, model training, evaluation, visualizations.
 
 ---
 
